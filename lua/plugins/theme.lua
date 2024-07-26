@@ -1,4 +1,4 @@
 return {
-  "lunarvim/darkplus.nvim",
-  -- "projekt0n/github-nvim-theme",
+  -- "lunarvim/darkplus.nvim",
+  "projekt0n/github-nvim-theme",
 }

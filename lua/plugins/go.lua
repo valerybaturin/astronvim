@@ -7,7 +7,7 @@ return {
   },
   config = function()
     require("go").setup {
-      diagnostic = false,
+      -- diagnostic = false,
     }
   end,
   event = { "CmdlineEnter" },

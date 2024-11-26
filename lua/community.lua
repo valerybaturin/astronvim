@@ -7,8 +7,8 @@
 ---@type LazySpec
 return {
   "AstroNvim/astrocommunity",
-  -- { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.color.transparent-nvim" },
+  -- { import = "astrocommunity.color.transparent-nvim" },
   -- import/override with your plugins folder
 }
